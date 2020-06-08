@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{student.html}, addcss{column.css}
+# jemdoc: menu{MENU}{student.html}, addcss{css/column.css}
 
 ~~~
 {}{raw}
