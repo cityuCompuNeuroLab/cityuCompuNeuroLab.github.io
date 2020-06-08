@@ -1,11 +1,6 @@
 # jemdoc: menu{MENU}{student.html}, addcss{css/column.css}
 
 ~~~
-{}{raw}
-<table class="dual-mode" cellpadding="0" cellspacing="0">
-<tr><td class="leftcell">
-~~~
-~~~
 # jemdoc: menu{MENU}{student.html}
 {}{img_left}{photos/bio/rosachan.JPG}{TEST}{360px}
 Associate Professor,\n [https://www.ee.cityu.edu.hk/home/ Department of Electrical Engineering], \n[https://www.cityu.edu.hk/ City University of Hong Kong (CityU)]\n
@@ -14,11 +9,7 @@ YEUNG-G6356, CityU, \n
 Phone: \+852 3442 7651 \n
 E-mail: [rosachan@cityu.edu.hk]\n
 ~~~
-~~~
-{}{raw}
-</td><td class="dual-mode">&nbsp;</td>
-<td class="rightcell">
-~~~
+
 ~~~
 # jemdoc: menu{MENU}{student.html}
 {}{img_left}{photos//bio//rosachan.JPG}{TEST}{360px}
