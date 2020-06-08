@@ -2,7 +2,7 @@
 
 == About
 Welcome to the Laboratory for Computational Neuroscience at the [https://www.cityu.edu.hk/ City University of Hong Kong (CityU)]!
-The lab is directed by [rosa.html Dr. Rosa Chan] in the Associate Professor,\n [https://www.ee.cityu.edu.hk/home/ Department of Electrical Engineering].
+\n The lab is directed by [rosa.html Dr. Rosa Chan] in the Associate Professor,\n [https://www.ee.cityu.edu.hk/home/ Department of Electrical Engineering].
 
 \n Our main research activities include:
 - Computational Neuroscience
@@ -13,7 +13,8 @@ The lab is directed by [rosa.html Dr. Rosa Chan] in the Associate Professor,\n [
 \n For more information about our current research, please visit the [pub.html research page]
 
 ~~~
-=== What's New [new.html more]
+== What's New
 - Welcome Xiaoli Wu and Wenhui Zhang join our lab as Research Assistants!
 - Jan 2020, paper \“OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning\” was accepted to International Conference on Robotics and Automation (ICRA) 2020.
+\n [new.html more]
 ~~~
