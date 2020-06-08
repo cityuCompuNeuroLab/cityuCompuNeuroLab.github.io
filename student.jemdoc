@@ -1,18 +1,23 @@
-# jemdoc: menu{MENU}{student.html}, addcss{css/column.css}
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}
 
 ~~~
-# jemdoc: menu{MENU}{student.html}
-{}{img_left}{photos/bio/rosachan.JPG}{TEST}{360px}
-Associate Professor,\n [https://www.ee.cityu.edu.hk/home/ Department of Electrical Engineering], \n[https://www.cityu.edu.hk/ City University of Hong Kong (CityU)]\n
-YEUNG-G6356, CityU, \n
-83 Tat Chee Ave, Kowloon, Hong Kong SAR \n
-Phone: \+852 3442 7651 \n
-E-mail: [rosachan@cityu.edu.hk]\n
+This page shows example jemdoc source and output side by side. (The spacing of
+the `page' on the left is consequently incorrect.)
 ~~~
 
+## jemdoc: start now.
 ~~~
-# jemdoc: menu{MENU}{student.html}
-{}{img_left}{photos//bio//rosachan.JPG}{TEST}{360px}
-Associate Professor \n
-E-mail: [rosachan@cityu.edu.hk]\n
+{}{img_left}{photos/bio/rosachan.JPG}{alt text}{131}{160}{https://scholars.cityu.edu.hk/en/persons/ho-man-chan(7eb8975f-575f-4672-9a7f-56078d98a503).html}
+<table class="dual-mode" cellpadding="0" cellspacing="0">
+<tr><td class="leftcell">
 ~~~
+PhD Candidate,\n
+E-mail: [xx@my.cityu.edu.hk]\n
+
+~~~
+{}{img_left}{photos/bio/rosachan.JPG}{alt text}{131}{160}{https://scholars.cityu.edu.hk/en/persons/ho-man-chan(7eb8975f-575f-4672-9a7f-56078d98a503).html}
+</td><td class="sepcell">&nbsp;</td>
+<td class="rightcell">
+~~~
+PhD Candidate,\n
+E-mail: [xx@my.cityu.edu.hk]\n
