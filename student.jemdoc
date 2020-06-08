@@ -1,19 +1,34 @@
-# jemdoc: menu{MENU}{example.html}, addcss{example.css}, nofooter
+# jemdoc: menu{MENU}{student.html}, addcss{css/ppl.css}, nofooter
 
 ~~~
 {}{raw}
-<table>
-<tr>
-<img src="photos/bio/rosachan.JPG" alt="Qi Liu" width="131px" height="160px" /></a>&nbsp;</td>
-<td align="left"><p>Associate Professor,<br />
-E-mail: <a href="mailto:rosachan@cityu.edu.hk">rosachan@cityu.edu.hk</a><br /></p>
-</td>
-
-<img src="photos/bio/rosachan.JPG" alt="Qi Liu" width="131px" height="160px" /></a>&nbsp;</td>
-<td align="left"><p>Associate Professor,<br />
-E-mail: <a href="mailto:rosachan@cityu.edu.hk">rosachan@cityu.edu.hk</a><br /></p>
-</td>
-
-</tr>
-</table>
+<div id="main2">
+	<ul>
+          <li>
+             <img src="photos/bio/" width="130" height="150"  alt="">
+             <p><a href="https://www.linkedin.com/in/jeremiah-palmerston/"><strong>Jeremiah Palmerston</strong></a></p><br/>
+             <p>PhD Candidate (2016)</p>
+          </li>
+          <li>
+             <img src="photos/bio/eric.png" width="130" height="150"  alt="">
+             <p><strong>Subing Huang</strong></p><br/>
+             <p>PhD Candidate (2018)</p>
+          </li>
+          <li>
+             <img src="photos/bio/eric.png" width="130" height="150"  alt="">
+             <p><strong>Fan Feng</strong></p><br/>
+             <p>PhD Candidate (2019)</p>
+          </li>
+          <li>
+             <img src="photos/bio/ql.JPG" width="130" height="150"  alt="">
+             <p><strong>Qi Liu  (2019)</strong></p><br/>
+             <p>PhD Candidate</p>
+          </li>
+          <li>
+             <img src="photos/bio/xyg.jpg" width="130" height="150"  alt="">
+             <p><strong>Xiaoyu Guo  (2019)</strong></p><br/>
+             <p>PhD Candidate</p>
+          </li>
+        </ul>
+        </div>
 ~~~
