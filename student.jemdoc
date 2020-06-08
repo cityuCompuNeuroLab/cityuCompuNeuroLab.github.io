@@ -1,23 +1,19 @@
-# jemdoc: menu{MENU}{example.html}, addcss{example.css}
+# jemdoc: menu{MENU}{example.html}, addcss{example.css}, nofooter
 
 ~~~
-This page shows example jemdoc source and output side by side. (The spacing of
-the `page' on the left is consequently incorrect.)
-~~~
+{}{raw}
+<table>
+<tr>
+<img src="photos/bio/rosachan.JPG" alt="Qi Liu" width="131px" height="160px" /></a>&nbsp;</td>
+<td align="left"><p>Associate Professor,<br />
+E-mail: <a href="mailto:rosachan@cityu.edu.hk">rosachan@cityu.edu.hk</a><br /></p>
+</td>
 
-## jemdoc: start now.
-~~~
-{}{img_left}{photos/bio/rosachan.JPG}{alt text}{131}{160}{https://scholars.cityu.edu.hk/en/persons/ho-man-chan(7eb8975f-575f-4672-9a7f-56078d98a503).html}
-<table class="dual-mode" cellpadding="0" cellspacing="0">
-<tr><td class="leftcell">
-~~~
-PhD Candidate,\n
-E-mail: [xx@my.cityu.edu.hk]\n
+<img src="photos/bio/rosachan.JPG" alt="Qi Liu" width="131px" height="160px" /></a>&nbsp;</td>
+<td align="left"><p>Associate Professor,<br />
+E-mail: <a href="mailto:rosachan@cityu.edu.hk">rosachan@cityu.edu.hk</a><br /></p>
+</td>
 
+</tr>
+</table>
 ~~~
-{}{img_left}{photos/bio/rosachan.JPG}{alt text}{131}{160}{https://scholars.cityu.edu.hk/en/persons/ho-man-chan(7eb8975f-575f-4672-9a7f-56078d98a503).html}
-</td><td class="sepcell">&nbsp;</td>
-<td class="rightcell">
-~~~
-PhD Candidate,\n
-E-mail: [xx@my.cityu.edu.hk]\n
