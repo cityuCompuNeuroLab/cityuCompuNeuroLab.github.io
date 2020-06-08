@@ -2,15 +2,16 @@
 
 == About
 Welcome to the Laboratory for Computational Neuroscience at the [https://www.cityu.edu.hk/ City University of Hong Kong (CityU)]!
-\n The lab is directed by [rosa.html Dr. Rosa Chan] in the Associate Professor,\n [https://www.ee.cityu.edu.hk/home/ Department of Electrical Engineering].
+\n The lab is directed by [rosa.html Dr. Rosa Chan] in the [https://www.ee.cityu.edu.hk/home/ Department of Electrical Engineering].
 
-\n Our main research activities include:
+~~~
+== Our main research activities include:
 - Computational Neuroscience
 - Neural Prosthesis
 - Brain-Computer Interface
 - Bio-Signal Processing
-
 \n For more information about our current research, please visit the [pub.html research page]
+~~~
 
 ~~~
 == What's New
@@ -18,3 +19,26 @@ Welcome to the Laboratory for Computational Neuroscience at the [https://www.cit
 - Jan 2020, paper \“OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning\” was accepted to International Conference on Robotics and Automation (ICRA) 2020.
 \n [new.html more]
 ~~~
+
+== Join Us
+
+=== Ph.D. (EE)
+We welcome applications from students, who are interested in computational neuroscience and next generation technology, to our [https://www.cityu.edu.hk/pg/research-degree-programmes Ph.D. programme].
+Applicants with degrees in Electronic Engineering, Computer Science, Bioengineering or related areas are preferred. Other requirements:
+- Proficiency in at least one program language
+- Good knowledge and experience in data analysis
+- Good interpersonal and team communication skills
+- Detail-oriented and responsible
+- Self-motivated, meticulous with strong analytical skills
+Applicant should send his/her CV and scanned copy of transcripts by email to [rosa.html Dr. Rosa Chan].
+
+=== Hong Kong PhD Fellowship Scheme
+[https://www.cityu.edu.hk/pg/hong-kong-phd-fellowship-scheme The Hong Kong PhD Fellowship Scheme] will invite applications annually. The key milestones and application procedures are as follows:
+
+\n Step 1: Applicants should first submit an initial application at [www.rgc.edu.hk/hkpfs the RGC's Online Application System (OAS)] to obtain a RGC reference number.
+
+\n Step 2: Applicants are then required to submit full application, together with supporting documents, to [https://www.cityu.edu.hk/pg/research-degree-programmes/steps-and-procedures CityU's Online Admission System], and quote the RGC reference number .
+
+\n Announcement of Fellowship results by the RGC: Around March
+
+\n Firm admission offer with regular postgraduate studentship will be given to selected CityU’s nominees, even if they are not awarded the Fellowship by the RGC. The admission offer will be confirmed by the University around January.
