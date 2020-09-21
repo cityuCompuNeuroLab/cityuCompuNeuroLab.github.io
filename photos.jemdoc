@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{photos.html}, addcss{css/photos.css}, nofooter
+
+~~~
+{}{raw}
+<div id="Photo">
+    <h3>4 Sep. 2020 - Aaron's farewell & He made a cake for us.</h3>
+    <img border='0' src='photos/Farewell_Aaron.JPG' width='700'>
+
+    <h3>24 Aug. 2020 - The last zoom group meeting due to the COVID19 breakout.</h3>
+    <img border='0' src='photos/zoom_082020.JPG' width='700'>
+
+    <h3>19 Jan. 2020 - Jeremiah's new home.</h3>
+    <img border='0' src='photos/Jere_012020.JPG' width='700'>
+
+    <h3>25 Dec. 2019 - Merry Christmas.</h3>
+    <img border='0' src='photos/Christmas_2019.JPG' width='700'>
+
+    <h3>8 Sep. 2019 - Welcoming and farewell.</h3>
+    <img border='0' src='photos/WelcomeFarewell_2019.JPG' width='700'>
+
+    <h3>1 Dec. 2018 - Zhishan's farewell.</h3>
+    <img border='0' src='photos/Farewell_Zhishan.JPG' width='700'>
+
+    <h3>31 May 2018 - Group Picture.</h3>
+    <img border='0' src='photos/GroupPic_2018.JPG' width='700'>
+
+</div>
+~~~
