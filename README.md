@@ -2,4 +2,4 @@
 ## click [here](https://cityucompuneurolab.github.io) to visit our home page.
 ### How to contribute (only for internal lab members)?
 
-Please specify your request in `request.md`.
+Please specify your request in `request.md` and don't edit the main brach directly.
