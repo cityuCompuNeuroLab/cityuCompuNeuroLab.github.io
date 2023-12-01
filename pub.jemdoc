@@ -64,10 +64,10 @@
 \n Neuroscience Letters, September 2020
 - [https://ieeexplore.ieee.org/abstract/document/9025245 Real-time estimation of knee adduction moment for gait retraining in patients with knee osteoarthritis]
 \n Chao Wang, Peter PK Chan, Ben MF Lam, Sizhong Wang, Janet H Zhang, Zoe YS Chan, Rosa HM Chan, Kevin KW Ho, Roy TH Cheung.
-\n IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 28.4 (2020): 888-894, March, 2020.
+\n IEEE Transactions on Neural Systems and Rehabilitation Engineering (T-NSRE), 28.4 (2020): 888-894, March, 2020.
 - [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227039 Multimodal hand gesture recognition using single IMU and acoustic measurements at wrist]
 \n Nabeel Siddiqui,Rosa H. M. Chan.
-\n Plos one 15.1 (2020): e0227039, January 2020.
+\n Plos one, January 2020.
 - [https://ieeexplore.ieee.org/abstract/document/8949472/ Modulating the Structure of Motor Variability for Skill Learning Through Specific Muscle Synergies in Elderlies and Young Adults]
 \n Vincent CK Cheung, Xiao-Chang Zheng, Roy TH Cheung, Rosa HM Chan.
 \n IEEE Open Journal of Engineering in Medicine and Biology 1 (2020): 33-40, January 2020.
@@ -88,38 +88,37 @@
 \n IEEE Internet of Things Journal, December 2018.
 
 
-- [Volleyball Skill Assessment Using a Single Wearable Micro Inertial Measurement Unit at Wrist]
+- [https://ieeexplore.ieee.org/document/8254340 Volleyball Skill Assessment Using a Single Wearable Micro Inertial Measurement Unit at Wrist]
 \n Yufan Wang, Yuliang Zhao, Rosa H. M. Chan, and Wen J. Li
 \n IEEE Access, pp. 13758-13765, 2018
 
 === 2017
 
-- [Astrocytic l-Lactate Signaling Facilitates Amygdala-Anterior Cingulate Cortex Synchrony and Decision Making in Rats]
+- [https://www.sciencedirect.com/science/article/pii/S2211124717316327 Astrocytic l-Lactate Signaling Facilitates Amygdala-Anterior Cingulate Cortex Synchrony and Decision Making in Rats]
 \n Jun Wang, Jie Tu, Bing Cao, Li Mu, Xiangwei Yang, Mi Cong, Aruna S. Ramkrishnan, Rosa H. M. Chan, Liping Wang* and Ying Li*
 \n Cell Reports, vol. 21, no. 9, pp. 2407-2418, 2017.
 
-- [Directionality Indices: Testing Information Transfer with Surrogate Correction]
-\n Beth Jelfs* and Rosa H. M. Chan
+- [https://doi.org/10.1103/PhysRevE.96.052220 Directionality Indices: Testing Information Transfer with Surrogate Correction]
+\n Beth Jelfs and Rosa H. M. Chan
 \n Physical Review E, vol. 96, no. 5, 052220, 2017.
 
-- [A Sparse Multiwavelet-Based Generalized Laguerre–Volterra Model for Identifying Time-Varying Neural Dynamics from Spiking Activities]
+- [https://doi.org/10.3390/e19080425 A Sparse Multiwavelet-Based Generalized Laguerre–Volterra Model for Identifying Time-Varying Neural Dynamics from Spiking Activities]
 \n Song Xu, Yang Li, Tingwen Huang, and Rosa H. M. Chan.
 \n Entropy, 19(8):425, 2017.
 
-- [Self-Recalibrating Surface EMG Pattern Recognition for Neuroprosthesis Control based on Convolutional Neural Network]
+- [https://www.frontiersin.org/articles/10.3389/fnins.2017.00379/full Self-Recalibrating Surface EMG Pattern Recognition for Neuroprosthesis Control based on Convolutional Neural Network]
 \n Xiaolong Zhai, Beth Jelfs, Rosa H. M. Chan, and Chung Tin.
 \n Frontiers in Neuroscience, 11:379, 2017.
 
-- [An Evaluation of Mental Workload with Frontal EEG]
+- [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174949 An Evaluation of Mental Workload with Frontal EEG]
 \n Winnie K. Y. So, Savio W. H. Wong, Joseph N. Mak, and Rosa H. M. Chan.
 \n PLoS ONE, 12(4): e0174949, 2017.
 
-- [Identification of Time-Varying Neural Dynamics from Spike Train Data Using Multiwavelet Basis Functions]
+- [https://www.sciencedirect.com/science/article/pii/S0165027016303132 Identification of Time-Varying Neural Dynamics from Spike Train Data Using Multiwavelet Basis Functions]
 \n Song Xu, Yang Li, Qi Guo, Xiao-Feng Yang, and Rosa H. M. Chan
 \n Journal of Neuroscience Methods, vol. 278, pp. 46-56, 2017
 
 === 2016
-
 - [Vagus Nerve Stimulation Alters Phase Synchrony of the Anterior Cingulate Cortex and Facilitates Decision Making in Rats]
 \n Bing Cao, Jun Wang, Mahadi Shahed, Beth Jelfs, Rosa H. M. Chan, and Ying Li
 \n Scientific Reports
@@ -229,129 +228,129 @@
 
 == Selected conference proceedings and workshops
 === 2023
-- [Exploring the Graph Features of Simple Artificial Neural Networks and Their Similarities to Cortical Development]
+- [pub.html Exploring the Graph Features of Simple Artificial Neural Networks and Their Similarities to Cortical Development]
 \n Chuanlin Lan, Rosa H. M. Chan
 \n IEEE EMBC, 2023
-- [Tracking Bilateral Lower Limb Kinematics of Distance Runners on Treadmill using a Single Inertial Measurement Unit]
+- [pub.html Tracking Bilateral Lower Limb Kinematics of Distance Runners on Treadmill using a Single Inertial Measurement Unit]
 \n Yuvraj Patra, Rosa H.M. Chan, Qi Liu, Daniel Thomson, Daniel H.K. Chow, Ben Fuller, Roy T. H. Cheung.
 \n IEEE EMBC, 2023
 
 === 2022
-- [Stratification and Survival Prediction for Amyotrophic Lateral Sclerosis Patients]
+- [https://ieeexplore.ieee.org/document/9926946 Stratification and Survival Prediction for Amyotrophic Lateral Sclerosis Patients]
 \n Yixiao Huang, Xiaoli Wu, and Rosa H. M. Chan
 \n IEEE BHI, 2022
-- [Does Meta-Learning Improve EEG Motor Imagery Classification?]
+- [https://ieeexplore.ieee.org/iel7/9870821/9870822/09871035.pdf Does Meta-Learning Improve EEG Motor Imagery Classification?]
 \n Xiaoli Wu and Rosa H. M. Chan
 \n IEEE EMBC, pp. 4081-4051, 2022
 === 2021
-- [Prediction of Human Intention in Vehicles, Pedestrians and Bicyclists Interactions]
+- [https://ieeexplore.ieee.org/document/9564915 Prediction of Human Intention in Vehicles, Pedestrians and Bicyclists Interactions]
 \n Tsung-Yu Chen, Hsiang-Jui Lin, Chi-Sheng Shih, Kuan-Ting Kuo, Qi Liu, Rosa H. M. Chan
 \n IEEE International Intelligent Transportation Systems Conference (ITSC), pp.64-69, 2021
-- [VA2Mass: Towards the Fluid Filling Mass Estimation via Integration of Vision and Audio Learning]
+- [https://link.springer.com/chapter/10.1007/978-3-030-68793-9_33 VA2Mass: Towards the Fluid Filling Mass Estimation via Integration of Vision and Audio Learning]
 \n Qi Liu, Fan Feng, Chuanlin Lan, and Rosa H. M Chan
 \n 25th International Conference on Pattern Recognition Workshops (ICPRW 2020), pp. 451-463, 2021
 === 2020
-- OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning
+- [https://ieeexplore.ieee.org/iel7/9187508/9196508/09196887.pdf OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning]
 \n Qi She, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa HM Chan.
 \n In International Conference on Robotics and Automation (ICRA), 2020. [https://lifelong-robotic-vision.github.io/dataset/ \[dataset\]] \[code\]
-- [Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM.]
+- [https://ieeexplore.ieee.org/iel7/9187508/9196508/09196638.pdf Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM]
 \n Xuesong Shi, Dongjiang Li, Pengpeng Zhao, Qinbin Tian, Yuxin Tian, Qiwei Long, Chunhao Zhu, Jingwei Song, Fei Qiao, Le Song, Yangquan Guo, Zhigang Wang, Yimin Zhang, Baoxing Qin, Wei Yang, Fangshi Wang, Rosa H. M. Chan, and Qi She
 \n International Conference on Robotics and Automation (ICRA), 2020
 
-- [Right Temporal Oscillations of Infants in Relation to Contingent Learning]
+- [https://ieeexplore.ieee.org/iel7/9167168/9175149/09175424.pdf Right Temporal Oscillations of Infants in Relation to Contingent Learning]
 \n Xiaoyu Guo, Janet Zhang, Roy T. H. Cheung, Rosa H. M. Chan, and Chao-Ying Chen
 \n IEEE EMBC, pp. 3273-3276, 2020
-- [Machine Learning-Driven Drug Discovery: Prediction of Structure-Cytotoxicity Correlation Leads to Identification of Potential Anti-Leukemia Compounds]
+- [https://ieeexplore.ieee.org/iel7/9167168/9175149/09175850.pdf Machine Learning-Driven Drug Discovery: Prediction of Structure-Cytotoxicity Correlation Leads to Identification of Potential Anti-Leukemia Compounds]
 \n Zishen Li, Yun Wah Lam, Qi Liu, Alison Y. K. Lau, Ho Yu Au-Yeung, and Rosa H. M. Chan
 \n IEEE EMBC, pp. 5464-5467, 2020
 
 === 2018
-- [Stochastic Dynamical Systems Based Latent Structure Discovery in High-Dimensional Time Series]
+- [http://ieeexplore.ieee.org/document/8461755/ Stochastic Dynamical Systems Based Latent Structure Discovery in High-Dimensional Time Series]
 \n Qi She, and Rosa H. M. Chan
 \n 2018 IEEE International Conference on Acoustic, Speech, and Signal Processing (ICASSP), 2018
-- [Reduced-Rank Linear Dynamical Systems]
+- [https://dl.acm.org/doi/10.5555/3504035.3504531 Reduced-Rank Linear Dynamical Systems]
 \n Qi She, Yuan Gao, Kai Xu, and Rosa H. M. Chan
 \n 32nd AAAI Conference on Artificial Intelligence, 2018
 - [https://ieeexplore.ieee.org/abstract/document/8512738 Weighted Network Density Predicts Range of Latent Variable Model Accuracy]
 \n Jeremiah B Palmerston, Qi She, Rosa HM Chan.
 \n 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). IEEE, 2018.
 === 2017
-- [A Wearable Hand Gesture Recognition Device Based On Acoustic Measurements At Wrist]
+- [https://ieeexplore.ieee.org/document/8037842 A Wearable Hand Gesture Recognition Device Based On Acoustic Measurements At Wrist]
 \n Nabeel Siddiqui and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 4443-4446, 2017.
-- [Entropy of Surface EMG Reflects Object Weight in Grasp-and-Lift]
+- [https://ieeexplore.ieee.org/iel7/8026122/8036736/08037372.pdf Entropy of Surface EMG Reflects Object Weight in Grasp-and-Lift]
 \n Yuqi Li, Beth Jelfs and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 2530-2533, 2017.
 === 2016
-- [Effective Connectivity Matrix for Neural Ensembles]
+- [https://ieeexplore.ieee.org/iel7/7580725/7590615/07591021.pdf Effective Connectivity Matrix for Neural Ensembles]
 \n Qi She, Ka Yan So, and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 1612-1615, 2016.
-- [Cross-Frequency Information Transfer from EEG to EMG in Grasping]
+- [https://ieeexplore.ieee.org/iel7/7580725/7590615/07591735.pdf Cross-Frequency Information Transfer from EEG to EMG in Grasping]
 \n Ka Yan So, Lingling Yang, Beth Jelfs , Qi She, Savio W. H. Wong, Joseph N. Mak, and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 4531-4534, 2016.
-- [Identification of Time-Varying Neural Dynamics from Spiking Activities Using Chebyshev Polynomials]
+- [https://ieeexplore.ieee.org/iel7/7580725/7590615/07591016.pdf Identification of Time-Varying Neural Dynamics from Spiking Activities Using Chebyshev Polynomials]
 \n Song Xu, Yang Li, Xudong Wang, and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 1591-1594, 2016.
-- [Short Latency Hand Movement Classification Based on Surface EMG Spectrogram with PCA]
+- [https://ieeexplore.ieee.org/document/7590706 Short Latency Hand Movement Classification Based on Surface EMG Spectrogram with PCA]
 \n Xiaolong Zhai, Beth Jelfs, Rosa H. M. Chan, and Chung Tin
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 327-330, 2016.
-- [Fuzzy entropy based nonnegative matrix factorization for muscle synergy extraction]
+- [https://ieeexplore.ieee.org/document/7471773 Fuzzy entropy based nonnegative matrix factorization for muscle synergy extraction]
 \n Beth Jelfs, Lingling Yang, Chung Tin, and Rosa H. M. Chan
 \n IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 739-743, 2016.
 === 2015
-- [Recruitment of Small Synergistic Movement Makes a Good Pianist]
+- [https://pubmed.ncbi.nlm.nih.gov/26736245/ Recruitment of Small Synergistic Movement Makes a Good Pianist]
 \n Beth Jelfs, Shengli Zhou, Bernard K. Y. Wong, Chung Tin, and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 242-245, August 2015.
 
-- [Reconstruction of Neural Network Topology Using Spike Train Data: Small-World Features of Hippocampal Network]
+- [https://ieeexplore.ieee.org/iel7/7302811/7318236/07318901.pdf Reconstruction of Neural Network Topology Using Spike Train Data: Small-World Features of Hippocampal Network]
 \n Qi She, Ka Yan So, and Rosa H. M. Chan
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp. 2506-2509, August 2015.
-- [Dimensionality reduction of hybrid data using mutual information-based unsupervised feature transformation: With application on intrusion detection]
+- [https://ieeexplore.ieee.org/document/7281890 Dimensionality reduction of hybrid data using mutual information-based unsupervised feature transformation: With application on intrusion detection]
 \n Min Wei, and Rosa H. M. Chan
 \n Proceedings of 2015 IEEE 13th International Conference on Industrial Informatics (INDIN), pp. 1108-1111, 2015.
 === 2014
-- [Laguerre-Volterra Model and Architecture for MIMO System Identification and Output Prediction]
+- [https://pubmed.ncbi.nlm.nih.gov/25571001/ Laguerre-Volterra Model and Architecture for MIMO System Identification and Output Prediction]
 \n Will X. Y. Li, Yao Xin, Rosa H. M. Chan, Dong Song, Theodore W. Berger, and Ray C. C. Cheung
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp 4539-4542, 2014.
 === 2013
-- [Identification of Functional Synaptic Plasticity from Ensemble Spiking Activities: A Nonlinear Dynamical Modeling Approach]
+- [https://ieeexplore.ieee.org/document/6696010 Identification of Functional Synaptic Plasticity from Ensemble Spiking Activities: A Nonlinear Dynamical Modeling Approach]
 \n Dong Song, Brian Robinson, Rosa H. M. Chan, Vasilis Marmarelis, Robert Hampson, Sam Deadwyler, and Theodore W. Berger
 \n Proceedings of 6th International IEEE EMBS Conference on Neural Engineering, pp. 617-620, 2013.
 
-- [Evaluation of Mental Workload in Visual­Motor Task: Spectral Analysis of Single­Channel Frontal EEG]
+- [https://ieeexplore.ieee.org/document/6700546 Evaluation of Mental Workload in Visual Motor Task: Spectral Analysis of Single Channel Frontal EEG]
 \n Joseph N. F. Mak, Rosa H. M. Chan, and Savio W. H. Wong
 \n Proceedings of 39th Annual Conference of the IEEE Industrial Electronics Society (IECON), pp. 8426 – 8430, 2013.
 
-- [Spectral Modulation of Frontal EEG Activities During Motor Skill Acquisition: Task Familiarity Monitoring Using Single-Channel EEG]
+- [https://pubmed.ncbi.nlm.nih.gov/24111016/ Spectral Modulation of Frontal EEG Activities During Motor Skill Acquisition: Task Familiarity Monitoring Using Single-Channel EEG]
 \n Joseph N. Mak, Rosa H. M. Chan, Savio W. H. Wong
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp 5638-5641, 2013.
 
 === 2012
-- [Functional connectivity between Layer 2/3 and Layer 5 neurons in prefrontal cortex of nonhuman primates during a delayed match-to-sample task]
+- [https://ieeexplore.ieee.org/iel5/6320834/6345844/06346485.pdf Functional connectivity between Layer 2/3 and Layer 5 neurons in prefrontal cortex of nonhuman primates during a delayed match-to-sample task]
 \n Dong Song, Ioan Opris, Rosa H.M. Chan, Vasilis Z. Marmarelis, Robert E. Hampson, Sam A. Deadwyler, Theodore W. Berger
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp 2555-2558, 2012.
 
-- [A dual mode FPGA design for the hippocampal prosthesis]
+- [https://pubmed.ncbi.nlm.nih.gov/23366947/ A dual mode FPGA design for the hippocampal prosthesis]
 \n Will X. Y. Li, Rosa H.M. Chan, Dong Song, Theodore W. Berger, and Ray C. C. Cheung
 \n Proceedings of Annual International Conference of the IEEE EMBS, pp 4579-4582, 2012.
 
 === 2011
-- [Tracking the Changes of Hippocampal Population Nonlinear Dynamics in Rats Learning a Memory-Dependent Task]
+- [https://pubmed.ncbi.nlm.nih.gov/22255051/ Tracking the Changes of Hippocampal Population Nonlinear Dynamics in Rats Learning a Memory-Dependent Task]
 \n Rosa H. M. Chan, Dong Song, Anushka V. Goonawardena, Sarah Bough, John Sesay, Robert E. Hampson, Sam A. Deadwyler, and Theodore W. Berger
 \n Proceedings of 33rd Annual International Conference of the IEEE EMBS, pp 3326-3329, 2011.
 
-- [Estimation and Statistical Validation of Event-Invariant Nonlinear Dynamic Models of Hippocampal CA3-CA1 Population Activities]
+- [https://ieeexplore.ieee.org/iel5/6067544/6089866/06090903.pdf Estimation and Statistical Validation of Event-Invariant Nonlinear Dynamic Models of Hippocampal CA3-CA1 Population Activities]
 \n Dong Song, Rosa H. M. Chan, Vasilis Z. Marmarelis, Robert E. Hampson, Sam A. Deadwyler, and Theodore W. Berger
 \n Proceedings of 33rd Annual International Conference of the IEEE EMBS, pp. 3330-3333, 2011.
 
-- [A Hardware-based Computational Platform for Generalized Laguerre-Volterra MIMO Model for Neural Activities]
+- [https://pubmed.ncbi.nlm.nih.gov/22256020/ A Hardware-based Computational Platform for Generalized Laguerre-Volterra MIMO Model for Neural Activities]
 \n Will X. Y Li, Rosa H. M. Chan, Wei Zhang, Ray C. C. Cheung, Dong Song, and Theodore W. Berger
 \n Proceedings of 33rd Annual International Conference of the IEEE EMBS, pp. 7282-7285, 2011.
-- [Restorative Encoding Memory Integrative Neural Device: 'REMIND']
+- [https://pubmed.ncbi.nlm.nih.gov/22255054/ Restorative Encoding Memory Integrative Neural Device: 'REMIND']
 \n Robert E. Hampson, Vasilis Z. Marmarelis, Dae Shin, Greg A. Gerhardt, Dong Song, Rosa H. M. Chan, Andrew Sweatt, John Granacki, Theodore W. Berger, and Sam A. Deadwyler
 \n Proceedings of 33rd Annual International Conference of the IEEE EMBS, pp. 3338-3341, 2011.
 
-- [FPGA Architecture of Generalized Laguerre-Volterra MIMO Model for Neural Population Spiking Activities]
+- [https://ieeexplore.ieee.org/document/5771285 FPGA Architecture of Generalized Laguerre-Volterra MIMO Model for Neural Population Spiking Activities]
 \n Will X. Y. Li, Rosa H. M. Chan, Wei Zhang, Ray C.C. Cheung, Dong Song and Theodore W. Berger
 \n 21st International Conference on Field Programmable Logic and Applications (FPL), pp. 44-49, 2011.
 
